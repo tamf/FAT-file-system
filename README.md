@@ -4,4 +4,5 @@ Reads a .dat file representing information about a FAT file system (FAT12 or FAT
 
 # Usage:
 
-./fatinfo $file-system-file-name
+1. `make`
+2. `./fatinfo $file-system-file-name`
